@@ -1,16 +1,23 @@
-## Hi there 👋
+<p>
+Hi, I'm Garima — a Product Manager with a background building internal tools and AI/ML-driven platforms in fintech,, where I focused on building ambiguous workflows into simple, usable systems/applications.
+</p>
 
-<!--
-**shukla100/shukla100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+While my 9-to-5 centers around enterprise-scale problems, I’ve always been drawn to user-first problem solving. 
+</p>
+<p>
+As a photographer myself, I kept losing hours to exhaustive location-scouting to capture the perfect image. I built PhotoWhere as a geo-tag–driven app to solve that — streamlining location discovery for photographers through real-time API data and dynamic filtering.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>PhotoWhere - iOS mobile application</b> </h3>
+<p>
+PhotoWhere is a passion project I designed, built and launched on the iOS App Store. This repo outlines how I took an idea — from concept to live app: including the problem, feature prioritization, wireframes & mockups, MVP1 build, customer feedback, and MVP2 roadmap.
+</p>
+<p>
+<br>
+<br>
+Thanks for stopping by! Feel free to connect: 
+<a href="https://www.linkedin.com/in/garimashukla100/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px" alt="LinkedIn" />
+</a>
+</p>
