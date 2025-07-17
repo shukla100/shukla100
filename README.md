@@ -1,5 +1,5 @@
 <p>
-Hi, I'm Garima — a Product Manager with a background building internal tools and AI/ML-driven platforms in fintech,, where I focused on building ambiguous workflows into simple, usable systems/applications.
+Hi, I'm Garima — a Product Manager with a background building internal RPA (robotic process automation) and AI/ML-driven platforms in fintech.
 </p>
 
 <p>
