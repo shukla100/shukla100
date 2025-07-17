@@ -3,7 +3,7 @@ Hi, I'm Garima — a Product Manager with background building internal RPA (robo
 </p>
 
 <p>
-I'm drawn to building from the ground up, specifically in startup environments, with a focus on creating meaningful, user-centered products.
+I'm drawn to building from ground up, specifically in startup environments, with a focus on creating meaningful, user-centered products.
 </p>
 <br>
 <p>
