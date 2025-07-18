@@ -7,14 +7,14 @@ I'm drawn to building from ground up, specifically in startup environments, with
 </p>
 <br>
 <p>
-<h3>PhotoWhere - a native iOS mobile application</b> </h3>
+<h3>PhotoWhere - a native iOS mobile application </b> </h3>
 <p>
 As a photographer myself, I was losing hours in location-scouting to capture the perfect image. I built PhotoWhere as a geo-tag–driven app to solve that — streamlining location discovery for photographers through real-time API data and dynamic filtering.
 </p>
 
 
-[PhotoWhere - Snap smarter. Anywhere.](https://github.com/shukla100/PhotoWhere---iOS-mobile-application/tree/main)
-
+[PhotoWhere - Snap smarter. Anywhere.](https://github.com/shukla100/PhotoWhere---iOS-mobile-application/tree/main) <br>
+Availabe on the [apple iOS store](https://apps.apple.com/us/app/photowhere-snap-smarter/id6748592837)
 
 <br>
 <br>
